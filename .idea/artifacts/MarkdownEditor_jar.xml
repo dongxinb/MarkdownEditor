@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MarkdownEditor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MarkdownEditor_jar</output-path>
+    <root id="archive" name="MarkdownEditor.jar">
+      <element id="module-output" name="MarkdownEditor" />
+    </root>
+  </artifact>
+</component>
